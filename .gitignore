@@ -2,7 +2,7 @@
 /build/
 !gradle/wrapper/gradle-wrapper.jar
 
-/GreetingTest.java
+GreetingTest.java
 
 ### STS ###
 .apt_generated
