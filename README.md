@@ -1,2 +1,2 @@
-# dev-ent-java-microserv-asgmt-2
-Developing Enterprice Java Microservices Assignment 2
+# hello project
+Developing Enterprice Java Microservices: Hello Project
